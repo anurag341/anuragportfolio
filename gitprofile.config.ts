@@ -52,14 +52,12 @@ const CONFIG = {
     },
   },
   seo: {
-    title: 'Portfolio of Ariful Alam',
+    title: 'Portfolio of Anurag',
     description: '',
     imageURL: '',
   },
   social: {
     linkedin: 'ariful-alam',
-    x: 'arif_szn',
-    mastodon: 'arifszn@mastodon.social',
     researchGate: '',
     facebook: '',
     instagram: '',
@@ -69,12 +67,8 @@ const CONFIG = {
     udemy: '',
     dribbble: '',
     behance: '',
-    medium: 'arifszn',
-    dev: 'arifszn',
-    stackoverflow: '', // example: '1/jeff-atwood'
     skype: '',
     telegram: '',
-    website: 'https://www.arifszn.com',
     phone: '',
     email: 'meetwithanuragsingh@gmail.com',
   },
@@ -83,7 +77,7 @@ const CONFIG = {
       'https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
-    'PHP',
+    'c#',
     'Laravel',
     'JavaScript',
     'React.js',
